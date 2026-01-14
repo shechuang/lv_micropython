@@ -150,4 +150,4 @@ Before compiling a given port, use
     $ cd ports/name
     $ make submodules
 
-to ensure that all required submodules are initialised.
+to ensure that all required submodules are initialised. ok
